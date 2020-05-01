@@ -1,0 +1,14 @@
+h1{
+    margin-left: 20px;
+}
+button{
+    background-color: black;
+    width: 150px;
+    font-family: 'Bungee', cursive;
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    margin-top: 5px;
+}
